@@ -29,7 +29,7 @@
   "styles": ["styles/misfortune.css"],
   "socket": true,
   "url": "https://github.com/Cogsagi/fvtt_misfortune",
-  "manifest": "https://github.com/Cogsagi/fvtt_misfortune/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Cogsagi/fvtt_misfortune/refs/heads/main/misfortune.mjs",
   "download": "https://github.com/Cogsagi/fvtt_misfortune/archive/refs/tags/fv55.zip",
   "license": "MIT"
 }
